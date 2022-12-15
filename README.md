@@ -2,7 +2,7 @@
 
 Простой калькулятор (сумма, разность, произведение, деление, квадратный корень).
 
-![calculator](/jscalc.png)
+[![calculator](/jscalc.png "Ссылка на проект")](https://difese.github.io/JScalc/)
 
 Доработан в качестве практического задания 7.7 на курсе Профессия "Веб-разработчик" от SkillFactory (в качестве основы использован [этот проект](https://github.com/SkillfactoryCoding/php/tree/master/bjs/07_Number_and_string)).
 
