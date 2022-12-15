@@ -1,0 +1,18 @@
+body {
+  background-color: peru;
+}
+
+.card-body {
+  background-color:burlywood;
+}
+
+.calc-row {
+  height: 100vh;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+  background-color: paleturquoise;
+  text-align: end;
+  font-size: x-large;
+}
